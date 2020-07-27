@@ -1,0 +1,17 @@
+export const DummyMeds = [
+    {medicineName:'MedicineA',medicineTime:'12-00',medicineTaken:true},
+        {medicineName:'MedicineA',medicineTime:'12-00',medicineTaken:false},
+        {medicineName:'MedicineA',medicineTime:'12-00',medicineTaken:true},
+        {medicineName:'MedicineA',medicineTime:'12-00',medicineTaken:false},
+        {medicineName:'MedicineA',medicineTime:'12-00',medicineTaken:false},
+        {medicineName:'MedicineA',medicineTime:'12-00',medicineTaken:true},
+        {medicineName:'MedicineA',medicineTime:'12-00',medicineTaken:false},
+        {medicineName:'MedicineA',medicineTime:'12-00',medicineTaken:true},
+        {medicineName:'MedicineA',medicineTime:'12-00',medicineTaken:false},
+        {medicineName:'MedicineA',medicineTime:'12-00',medicineTaken:false},
+        {medicineName:'MedicineA',medicineTime:'12-00',medicineTaken:true},
+        {medicineName:'MedicineA',medicineTime:'12-00',medicineTaken:false},
+        {medicineName:'MedicineA',medicineTime:'12-00',medicineTaken:true},
+        {medicineName:'MedicineA',medicineTime:'12-00',medicineTaken:false},
+        {medicineName:'MedicineA',medicineTime:'12-00',medicineTaken:false},
+]
